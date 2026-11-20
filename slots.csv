@@ -1,0 +1,14 @@
+slot_id,department,doctor_name,time_slot,status,patient_name
+1,Cardiology,Dr. Mehta,2026-11-23 10:00 AM,Booked,Rahul Sharma
+2,Cardiology,Dr. Mehta,2026-11-23 11:00 AM,Available,
+3,Cardiology,Dr. Iyer,2026-11-24 02:00 PM,Available,
+4,Dermatology,Dr. Kulkarni,2026-11-23 09:30 AM,Available,
+5,Dermatology,Dr. Kulkarni,2026-11-24 03:30 PM,Available,
+6,Orthopedics,Dr. Deshmukh,2026-11-25 10:00 AM,Available,
+7,Orthopedics,Dr. Deshmukh,2026-11-25 12:00 PM,Available,
+8,Pediatrics,Dr. Joshi,2026-11-23 04:00 PM,Available,
+9,Pediatrics,Dr. Joshi,2026-11-26 11:30 AM,Available,
+10,General Medicine,Dr. Patil,2026-11-23 05:00 PM,Available,
+11,General Medicine,Dr. Patil,2026-11-24 09:00 AM,Booked,Demo Patient
+12,Neurology,Dr. Rao,2026-11-25 02:00 PM,Booked,Demo Patient
+13,Neurology,Dr. Rao,2026-11-26 03:00 PM,Booked,Demo Patient
