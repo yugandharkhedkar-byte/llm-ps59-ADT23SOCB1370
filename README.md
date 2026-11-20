@@ -56,8 +56,8 @@ You can also skip the `.env` file and paste the key into the sidebar field when 
 
 ## Screenshots
 
-!\[Booking conversation](screenshots/4.png)
-!\[Sidebar with updated slots](screenshots/6.png)
+\[Booking conversation](screenshots/4.png)
+\[Sidebar with updated slots](screenshots/6.png)
 
 ## Project Files
 
